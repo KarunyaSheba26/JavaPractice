@@ -1,3 +1,13 @@
-#JavaPractice
-This repository contains my java practice programs.
-Learning core Java and improving coding skills.
+# Java Practice
+
+This repository contains my Java practice programs.
+
+## Programs Included:
+- Calculator Program
+
+## Tools Used:
+- Java
+- IntelliJ IDEA
+- Git & GitHub
+
+Learning Java and improving coding skills.
