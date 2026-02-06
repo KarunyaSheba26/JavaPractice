@@ -1,9 +1,14 @@
 # Java Practice
 
-This repository contains my Java practice programs.
+This repository contains my Core Java practice programs.
 
 ## Programs Included:
+- Hello World
+- Odd or Even
 - Calculator Program
+- if-Else Demo
+- Switch Case
+- Scanner Example
 
 ## Tools Used:
 - Java
